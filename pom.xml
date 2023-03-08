@@ -6,7 +6,7 @@
     <artifactId>sampleapp</artifactId>
     <packaging>war</packaging>
     <version>3.1.0</version>
-    <name>Vaadin Sampleapp example</name>
+    <name>Vivian Sampleapp example</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
